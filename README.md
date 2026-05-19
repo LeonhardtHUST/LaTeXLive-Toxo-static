@@ -1,6 +1,7 @@
 # LaTeXLive - 在线 LaTeX 公式编辑器
 
 基于「[妈叔出品 - 在线 LaTeX 公式编辑器](https://www.latexlive.com)」修改而来。
+**包含AI编程的内容，请注意**
 
 ## 项目简介
 
