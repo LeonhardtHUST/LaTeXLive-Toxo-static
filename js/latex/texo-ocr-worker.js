@@ -157,7 +157,7 @@ async function init(modelBaseUrl) {
   if (isInitialized) return;
   const t = await loadTransformers();
 
-  // Parse modelBaseUrl (e.g. "https://4.toolbox.li3age.top/LaTeXLive/models") into
+  // Parse modelBaseUrl (e.g. "https://4.toolbox.li3age.top/./models") into
   // remoteHost and remotePathTemplate so Transformers.js constructs correct URLs:
   //   ${remoteHost}/${remotePathTemplate}/config.json
   var u = new URL(modelBaseUrl);

@@ -21,7 +21,7 @@ const Config = {
       latex: "/publish/latex.bundle.min.js",
       readme: "/publish/readme.bundle.min.js",
     },
-    Boot_OSS: "..",
+    Boot_OSS: "",
     WebAPI: {
       Root: "",
       Controller: {
@@ -83,7 +83,7 @@ const Config = {
       latex: "/publish/latex.bundle.min.js",
       readme: "/publish/readme.bundle.min.js",
     },
-    Boot_OSS: "/LaTeXLive",
+    Boot_OSS: "",
     WebAPI: {
       Root: "",
       Controller: {

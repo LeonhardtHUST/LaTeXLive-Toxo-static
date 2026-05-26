@@ -21,7 +21,7 @@ document.writeln("          style='text-align: center;position: relative;margin-
 document.writeln("          style='font-size: 20px;'>妈咪叔提醒您</span>");
 document.writeln("        <h2 style='text-align: center;'>您的浏览器内核不支持此应用</h2>");
 document.writeln("        <p>要正常使用此WebAPP，请使用支持此应用的浏览器，浏览器支持情况如下</p>");
-document.writeln("        <img src='" + boot_body + "/img/browsers.png' style='width: 100%;'><br>");
+document.writeln("        <img src='" + boot_body + "/img/empty1.png' style='width: 100%;'><br>");
 document.writeln("      </div>");
 document.writeln("    </div>");
 document.writeln("  </div>");
